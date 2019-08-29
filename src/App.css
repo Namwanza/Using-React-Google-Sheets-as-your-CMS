@@ -16,7 +16,7 @@
 }
 
 .employee-details {
-  display: inline;
+  display: inline-block;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -24,8 +24,9 @@
 
 .details {
   float: left;
-  padding: 5px;
+  padding: 62px;
   padding-top: 50px;
+  text-align: center
 }
 
 footer {
